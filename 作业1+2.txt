@@ -1,0 +1,25 @@
+作业1：https://github.com/zykgnyue/Hello
+Homework: Do as much as you can! Deadline Mar.5 2019
+1.Install Visual studio 2017
+2.Register a github account and setup the repository.
+3.Clone or download this code to your local PC.
+4.Revise the code and make the screen return to the original color after its execution.
+5.Add your source code to Source control. This will create a local repository in your PC. It may need to install Git & Github extension for Visual Studio.
+6.Commit/Push or synchronize(同步) the revised code to your github repository in Visual Studio 2017.
+7.Try to use markdown language to write a "Readme.md" document which illustrates the work you have done.
+
+
+作业2：
+下面6种HelloWorld，每题可得到的最高分数如下。优秀的标准是可以将命令行参数显示到hello world界面中，并有与众不同的新意。
+1.创建新的类，实例化 HelloWorld：max score 30分
+2.创建新的类，静态方法，无需实例化的 HelloWorld：max score 30分
+3.WPF的HelloWorld：max score 30分
+4.WindowsForm，中创建新类的HelloWorld：max 5分
+5.Xamarin Android HelloWorld 或IOS/Mac OS HelloWorld:max 5分
+
+作业1，2要求：
+1.请使用GitHub提交作业，自己建立自己的Github账号，建立public项目，将作业的网址发微信群,格式为：学号，姓名, Github网址
+  例子：201701234,布小谷,https://github.com/bxging/
+2.请使用GitHub Readme.md 描述你的作业的技术思路、程序执行结果及屏幕截图。
+3.作业1：deadline Mar.5。
+4.作业2：deadline Mar.7. Github上各种HelloWorld的命名应容易辨别，Readme.md中描述清晰。
